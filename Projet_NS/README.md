@@ -49,4 +49,3 @@
    3) Exchange the interface points
    4) Calculate u
 
-### Constrainr
